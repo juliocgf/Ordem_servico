@@ -1,0 +1,16 @@
+#logo
+{
+    margin: 0 auto;
+    width: 256;
+    height: 200px;
+    background-image: url('../img/topo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px;
+}
+.fieldsetTitle
+{
+    font-size: 26px;
+    text-align: center;
+    border: none;
+}
